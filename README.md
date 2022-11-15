@@ -22,6 +22,14 @@ Bonus:
 - Bonus de despliegue de tu pokedex.
 - Bonus de uso de otras rutas como búsqueda por número de pokemón.
 
+Tecnologías empleadas:
+
+- HTML
+- CSS
+- JavaScript
+- API PokeAPI
+- GitHub
+
 ## Te dejo una captura de pantalla de la pokedex
 
 ***También puedes ir al link directo de la pokedex, ¡vamos vela tú mismo! :eyes: :point_right: [LINK](https://charliecrown.github.io/POKEDEX/)***
